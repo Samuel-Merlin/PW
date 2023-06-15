@@ -72,3 +72,14 @@ font-size: 30px;
 hr.line{
     border-top: 3px solid black;
   }
+  .docContainer{
+    text-align:center;
+    margin-top:2%;
+  }
+  .document{
+    height:1000px;
+    width:700px;
+  }
+  .return{
+    font-size:28px;
+  }
